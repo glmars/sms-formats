@@ -1,4 +1,4 @@
-(?:MIR-|VISA|ECMC|СЧЁТ)(\d{4}).*?перевод (\d[\d .,]*)(\S+) (.+?) Баланс: (\d[\d .,]*)(\S+)
+(?:MIR-|VISA|ECMC|СЧЁТ)(\d{4}).*?перевод\s+(\d[\d\s.,]*)\s*(\S+)\s+(.+?)\s+Баланс:\s+(\d[\d\s.,]*)\s*(\S+)
 
 -----COLUMNS-----
 syncid;outcome;instrument;payee;balance;acc_instrument
