@@ -1,4 +1,4 @@
-(?:MIR-|VISA|ECMC|СЧЁТ)(\d{4}).*?перевод\s+(\d[\d\s.,]*)\s*(\S+)\s+(?!с комиссией|Комиссия|от)(.+?)\s+Баланс:\s+(\d[\d\s.,]*)\s*(\S+)
+(?:MIR-|VISA|ECMC|СЧЁТ)(\d{4}).*?(?:перевод|Покупка)\s+(\d[\d\s.,]*)\s*(\S+)\s+(?!с комиссией|Комиссия|от)(.+?)\s+Баланс:\s+(\d[\d\s.,]*)\s*(\S+)
 
 -----COLUMNS-----
 syncid;outcome;instrument;payee;balance;acc_instrument
@@ -17,3 +17,9 @@ syncid;outcome;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Счёт карты ECMC9269 05:10 перевод 200р WB Баланс: 200р
+
+-----EXAMPLE-----
+Счёт карты MIR-0678 10:08 Покупка 4500р BIZNESINALOGIW Баланс: 55 333.9р
+
+-----EXAMPLE-----
+Счёт карты MIR-4247 11:19 Покупка 233р ЯндексGo Баланс: 1069.97р
