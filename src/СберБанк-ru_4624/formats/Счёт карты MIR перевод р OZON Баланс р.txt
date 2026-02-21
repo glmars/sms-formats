@@ -23,3 +23,6 @@ syncid;outcome;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Счёт карты MIR-4247 11:19 Покупка 233р ЯндексGo Баланс: 1069.97р
+
+-----EXAMPLE-----
+Счёт карты VISA2899 20:56 перевод 2500р Банк Санкт-Петербург Баланс: 11 907.6р
