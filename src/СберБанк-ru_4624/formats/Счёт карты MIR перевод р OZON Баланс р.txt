@@ -38,3 +38,9 @@ syncid;outcome;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Счёт карты MIR-5750 15:07 Покупка 166.97р SISTEMA GLOBUS Баланс: 72.04р
+
+-----EXAMPLE-----
+Счёт карты VISA3859 16:35 Покупка 4139.73р DOSTAVKA PEREKRESTKA_SDK Баланс: 15 812.14р
+
+-----EXAMPLE-----
+Счёт карты MIR-9651 21:50 перевод 2000р Яндекс Баланс: 580р
