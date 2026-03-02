@@ -14,3 +14,9 @@ syncid;outcome;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Перевод. Счет RUB. 1500 RUB. Card2Card. Баланс 6813.39 RUB
+
+-----EXAMPLE-----
+Перевод. Счет RUB. 413 ₽. Дмитрий П. Баланс 113539,23 ₽
+
+-----EXAMPLE-----
+Перевод. Счет RUB. 5555 ₽. Мария Г. Баланс 104561,9 ₽

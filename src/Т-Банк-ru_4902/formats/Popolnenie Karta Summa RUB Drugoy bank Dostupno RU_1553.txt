@@ -23,3 +23,6 @@ Popolnenie. Karta *1973. Summa 76652.38 RUB. Drugoy bank. Dostupno 77268.87 RUB.
 
 -----EXAMPLE-----
 Пополнение, счет RUB. 3000 RUB. Диего Фернандо К. Доступно 1000.00 RUB
+
+-----EXAMPLE-----
+Пополнение, счет RUB. 1500 ₽. Анастасия Т. Доступно 1500 ₽
