@@ -17,3 +17,7 @@ syncid;outcome;instrument;payee
 
 -----EXAMPLE-----
 СЧЁТ0675 10:36 Оплата 250р
+
+-----EXAMPLE-----
+СЧЁТ0912 10:20 перевод 296р
+
