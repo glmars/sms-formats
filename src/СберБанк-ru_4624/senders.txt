@@ -6,5 +6,4 @@
 SBERBANK
 90-0
 ru.sberbankmobile
-0321
 +7900
