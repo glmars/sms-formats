@@ -5,3 +5,6 @@ syncid;income;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Счёт карты VISA3844 14:04 возврат покупки 194.07р MAGNIT Баланс: 5801.91р
+
+-----EXAMPLE-----
+Счёт карты ECMC0688 08:22 возврат покупки 8822р MVIDEO Баланс: 730 161.55р
