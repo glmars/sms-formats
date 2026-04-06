@@ -1,0 +1,7 @@
+ECMC(\d{4}).*?возврат покупки\s+(\d[\d\s.,]*)\s*(\S+)\s+(.+?)\s+Баланс:\s+(-?\d[\d\s.,]*[.,]\d{2})\s*(\S+)
+
+-----COLUMNS-----
+syncid;income;instrument;payee;balance;acc_instrument
+
+-----EXAMPLE-----
+Счёт карты ECMC0688 08:22 возврат покупки 8822р MVIDEO Баланс: 730 161.55р

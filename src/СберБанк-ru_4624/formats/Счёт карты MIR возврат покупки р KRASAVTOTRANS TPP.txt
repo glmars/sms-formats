@@ -1,0 +1,7 @@
+Счёт карты MIR-(\d{4}).*?возврат покупки\s+(\d[\d\s.,]*)(\S+)\s+(.+)
+
+-----COLUMNS-----
+syncid;income;instrument;payee
+
+-----EXAMPLE-----
+Счёт карты MIR-0242 07:26 возврат покупки 1470р KRASAVTOTRANS_TPP
