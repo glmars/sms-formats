@@ -1,13 +1,10 @@
-(?:Платеж|Оплата|Операция)\.\s+(?:Карта\s+\*)?(\d{4})\.\s+(\d[\d\s.,]*)\s+(\S+)\.\s+(.+?)\.\s+Баланс\s+(-?\d[\d\s.,]*)\s+(\S+)
+(?:Платеж|Оплата|Операция)\.\s+Карта\s+\*(\d{4})\.\s+(\d[\d\s.,]*)\s+(\S+)\.\s*(.+?)\.\s+Баланс\s+(-?\d[\d\s.,]*)\s+(\S+)
 
 -----COLUMNS-----
-syncid;outcome;instrument;payee;balance
+syncid;outcome;instrument;payee;balance;acc_instrument
 
 -----EXAMPLE-----
 Платеж. Карта *4998. 200 RUB. MTS. Баланс -9465.99 RUB
 
 -----EXAMPLE-----
 Оплата. Карта *8954. 57.6 RUB. . Баланс 190.71 RUB
-
------EXAMPLE-----
-Платеж. Счет RUB. 486 RUB. Petroelektro. Баланс 7776.26 RUB
