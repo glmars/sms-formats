@@ -1,3 +1,4 @@
 900
 SBERBANK
 ru.sberbankmobile
+DO NOT MERGE
