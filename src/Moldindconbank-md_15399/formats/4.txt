@@ -4,4 +4,7 @@ din\s+(\d{2}\.\d{2}\.\d{2})\s+\d{2}:\d{2}.*?Suma:\s+(\d[\d\.,]*[.,]\d{2})\s+([A-
 date#dMy;outcome;instrument;syncid;av_balance;acc_instrument
 
 -----EXAMPLE-----
-Creditare card (aliexpress) din 20.12.24 11:35. Suma: 0,83 USD. Card: 4028*7664. Disponibil: 3,14 USD. ║ Tranzactie reusita
+Creditare cont MIA din 13.02.26 12:50. Suma: 2.500,00 MDL. Cont: 2259**7121. Disponibil: 2.588,88 MDL
+
+-----EXAMPLE-----
+Creditare cont MIA din 13.07.25 23:16. Suma: 3.570,00 MDL. Cont: 2259**7121. Disponibil: 92,86 MDL
