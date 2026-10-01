@@ -5,3 +5,6 @@ income;instrument;date#dMy;av_balance;acc_instrument
 
 -----EXAMPLE-----
 zachislenie 190 BYN SOA Credit>MINSK>BLR; MCC 6012'; '17/09/2024; Dostupno: 542.04 BYN
+
+-----EXAMPLE-----
+Zachislenie  3.05 BYN Mastercard#4294; Kapitalizatciia; 30/09/2026 11:20:25; Dostupno: 1194.64 BYN

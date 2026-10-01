@@ -5,3 +5,6 @@ income;instrument;syncid;date#dMy;av_balance
 
 -----EXAMPLE-----
 Zachislen perevod 50.00 BYN na Mastercard#2140; BNB P2P>MINSK>BY; MCC 6536; 14.09.2022 12:24:57; Dostupno: 57.49
+
+-----EXAMPLE-----
+Zachislenie  3.05 BYN Mastercard#4294; Kapitalizatciia; 30/09/2026 11:20:25; Dostupno: 1194.64 BYN

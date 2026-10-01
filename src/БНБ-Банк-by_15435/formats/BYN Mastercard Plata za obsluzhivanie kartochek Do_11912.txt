@@ -5,3 +5,6 @@ outcome;instrument;syncid;comment;date#dMy;av_balance;acc_instrument
 
 -----EXAMPLE-----
 5 BYN Mastercard#2928; Plata za obsluzhivanie kartochek; 04/08/2026 00:00:00; Dostupno: -0.28 BYN
+
+-----EXAMPLE-----
+Zachislenie  3.05 BYN Mastercard#4294; Kapitalizatciia; 30/09/2026 11:20:25; Dostupno: 1194.64 BYN
